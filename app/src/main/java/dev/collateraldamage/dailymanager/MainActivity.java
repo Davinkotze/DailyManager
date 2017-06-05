@@ -16,7 +16,7 @@ public class MainActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.float_action_button);
 
         data.add(new DayCounter("CLA", "2017-05-29", "6"));
         data.add(new DayCounter("Development", "2017-06-03", "2"));

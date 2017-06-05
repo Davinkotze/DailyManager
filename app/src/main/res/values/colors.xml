@@ -2,7 +2,7 @@
 <resources>
     <color name="colorPrimary">#3f51b5</color>
     <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
-    <color name="dayCount">#FF40FF43</color>
+    <color name="colorAccent">#40e2ff</color>
+    <color name="dayCount">#4046ff</color>
     <color name="black">#FF000000</color>
 </resources>
